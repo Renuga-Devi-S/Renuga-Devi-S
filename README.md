@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Renuga Devi S
+# Hi there, I'm Renuga Devi S
 
 💻 Passionate Software Developer | MCA Graduate  
 🚀 Interested in Mobile App Development, Web Development, and IoT Solutions.
@@ -6,10 +6,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 📱 Skilled in building mobile and web applications
-- 🔥 Passionate about creating user-friendly applications
-- 📚 Eager to learn new technologies and improve my skills
-- 🤝 Good team player with problem-solving abilities
+- Skilled in building mobile and web applications
+- Passionate about creating user-friendly applications
+- Eager to learn new technologies and improve my skills
+- Good team player with problem-solving abilities
 
 ---
 
@@ -35,9 +35,9 @@
 ---
 
 ## 🏆 Achievements
-- 🏅 Participated in Design Spark Challenge 2026
-- 📜 Completed SWAYAM Course in Web Technology
-- 🎓 Certified in Introduction to Backend by Meta
+-  Participated in Design Spark Challenge 2026
+-  Completed SWAYAM Course in Web Technology
+-  Certified in Introduction to Backend by Meta
 
 ---
 
