@@ -1,15 +1,14 @@
 # Hi there, I'm Renuga Devi S
 
-💻 Passionate Software Developer | MCA Graduate  
+💻 MCA Graduate  | Tech Enthusiast 
 🚀 Interested in Mobile App Development, Web Development, and IoT Solutions.
 
 ---
 
 ## 👩‍💻 About Me
-- Skilled in building mobile and web applications
-- Passionate about creating user-friendly applications
-- Eager to learn new technologies and improve my skills
-- Good team player with problem-solving abilities
+
+> Hi, I'm **Renuga Devi S**, an MCA student and aspiring Software Developer with a strong interest in mobile application development. I specialize in **Flutter** and enjoy building responsive, user-friendly, and scalable applications. I have experience working with **Dart, PHP, MySQL, REST APIs, HTML, CSS, and JavaScript**, and I'm always eager to learn new technologies and improve my development skills. I enjoy solving real-world problems through clean, efficient code and continuously explore areas such as **Data Structures & Algorithms, Full-Stack Development.. I'm passionate about creating impactful software and am currently seeking opportunities to grow as a Software Developer while contributing to innovative projects.
+
 
 ---
 
